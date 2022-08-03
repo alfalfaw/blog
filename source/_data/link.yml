@@ -1,0 +1,15 @@
+- class_name: 网站
+  class_desc: 值得推荐的网站
+  link_list:
+    - name: 哔哩哔哩
+      link: https://www.bilibili.com/
+      avatar: https://s1.ax1x.com/2022/08/02/vEa1gK.png
+      descr: 视频网站
+    - name: 微博
+      link: https://www.weibo.com/
+      avatar: https://s1.ax1x.com/2022/08/02/vEaJDe.png
+      descr: 中国最大社交分享平台
+    - name: Github
+      link: https://github.com/
+      avatar: https://s1.ax1x.com/2022/08/02/vEaUUA.png
+      descr: 代码托管平台
