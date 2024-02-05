@@ -407,7 +407,7 @@ footer:
   owner:
     enable: true
     since: 2022
-  custom_text: 粤备 xxxxxx 号
+  custom_text:   
   copyright: false # Copyright of theme and framework
 
 # Analysis
