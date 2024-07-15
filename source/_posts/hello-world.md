@@ -1,8 +1,8 @@
 ---
 title: Hello World
 cover: https://s1.ax1x.com/2022/08/02/vEGw9O.jpg
-categories: 文章
-tags: 闲聊
+categories: article
+tags: chat
 ---
 
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
