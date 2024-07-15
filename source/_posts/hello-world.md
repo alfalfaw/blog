@@ -1,7 +1,7 @@
 ---
 title: Hello World
 cover: https://s1.ax1x.com/2022/08/02/vEGw9O.jpg
-categories: article
+categories: hexo
 tags: chat
 ---
 
