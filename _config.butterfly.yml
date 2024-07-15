@@ -615,9 +615,9 @@ subtitle:
   source: false
   # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
   sub:
-    - 他会找到别的月光，你也会拥有你的月亮。
-    - 我不自觉 跌进这一角落 来去的拉拖 错过再错过 我不认错 纵我听不到附和 谁也都清楚。
-    - 人永远不知道，谁哪次不经意的跟你说了再见之后，就真的不会再见了。
+    - I think, therefore I am.
+    - To be, or not to be, that is the question.
+    - The only thing we have to fear is fear itself.
 
 # Loading Animation (加載動畫)
 preloader: false
